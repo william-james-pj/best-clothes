@@ -28,7 +28,7 @@
 <br />
 Esse site é uma landing page de promoções, onde o cliente pode cadastrar seu e-mail para receber promoções. Os e-mails cadastrados são salvos no localstorage.
 
-Link do site: https://dazzling-lamarr-4f6611.netlify.app
+Link demo: https://bestclothes.netlify.app
 
 ## Layout
 
