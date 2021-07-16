@@ -28,7 +28,8 @@
 <br />
 Esse site é uma landing page de promoções, onde o cliente pode cadastrar seu e-mail para receber promoções. Os e-mails cadastrados são salvos no localstorage.
 
-Link demo: https://bestclothes.netlify.app
+
+Link [demo](https://bestclothes.netlify.app)
 
 ## Layout
 
