@@ -18,6 +18,8 @@ function saveData(event) {
   objeto.push({ email });
 
   localStorage.setItem("data_form", JSON.stringify(objeto));
+
+  window.alert("Email cadastrado!");
 }
 
 // Nav link
