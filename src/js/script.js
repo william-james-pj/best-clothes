@@ -19,6 +19,7 @@ function saveData(event) {
 
   localStorage.setItem("data_form", JSON.stringify(objeto));
 
+  event.currentTarget.email.value = "";
   window.alert("Email cadastrado!");
 }
 
